@@ -1,0 +1,23 @@
+name: PotatoThief
+favicon: null
+layout_spectrum: 0.6669426646549255
+typography_spectrum: 0.19219865510240197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.48446153197437525
+  lightness: 0.8335884532425553
+  saturation: 0.6260053031146526
+  rhythmicContrast: 0.6445053413044661
+purpose: []
